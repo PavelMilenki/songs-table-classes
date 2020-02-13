@@ -2,7 +2,7 @@
   "name": "songs-table",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": " https://pavelmilenki.github.io/songs-table-classes/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

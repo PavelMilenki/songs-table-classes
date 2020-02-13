@@ -1,4 +1,4 @@
-demo: 
+demo: https://pavelmilenki.github.io/songs-table-classes/
 
 **Stack:**
 
@@ -6,6 +6,6 @@ demo:
 * React-Redux
 * Redux
 * Redux-Thunk
-* Hooks
+* Classes
 * Axios
 * Lodash
