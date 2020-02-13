@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/songs-table-classes/static/css/main.c21cbceb.chunk.css",
-    "main.js": "/songs-table-classes/static/js/main.06da75fe.chunk.js",
-    "main.js.map": "/songs-table-classes/static/js/main.06da75fe.chunk.js.map",
+    "main.js": "/songs-table-classes/static/js/main.d1b7dc08.chunk.js",
+    "main.js.map": "/songs-table-classes/static/js/main.d1b7dc08.chunk.js.map",
     "runtime-main.js": "/songs-table-classes/static/js/runtime-main.6754f459.js",
     "runtime-main.js.map": "/songs-table-classes/static/js/runtime-main.6754f459.js.map",
-    "static/js/2.ee95a550.chunk.js": "/songs-table-classes/static/js/2.ee95a550.chunk.js",
-    "static/js/2.ee95a550.chunk.js.map": "/songs-table-classes/static/js/2.ee95a550.chunk.js.map",
+    "static/js/2.a4b30709.chunk.js": "/songs-table-classes/static/js/2.a4b30709.chunk.js",
+    "static/js/2.a4b30709.chunk.js.map": "/songs-table-classes/static/js/2.a4b30709.chunk.js.map",
     "index.html": "/songs-table-classes/index.html",
-    "precache-manifest.fab500a3a3e70db23e0f5fc9283c62b4.js": "/songs-table-classes/precache-manifest.fab500a3a3e70db23e0f5fc9283c62b4.js",
+    "precache-manifest.dc0ea1ebe118dfef67ed813d29248f5e.js": "/songs-table-classes/precache-manifest.dc0ea1ebe118dfef67ed813d29248f5e.js",
     "service-worker.js": "/songs-table-classes/service-worker.js",
     "static/css/main.c21cbceb.chunk.css.map": "/songs-table-classes/static/css/main.c21cbceb.chunk.css.map",
-    "static/js/2.ee95a550.chunk.js.LICENSE.txt": "/songs-table-classes/static/js/2.ee95a550.chunk.js.LICENSE.txt"
+    "static/js/2.a4b30709.chunk.js.LICENSE.txt": "/songs-table-classes/static/js/2.a4b30709.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6754f459.js",
-    "static/js/2.ee95a550.chunk.js",
+    "static/js/2.a4b30709.chunk.js",
     "static/css/main.c21cbceb.chunk.css",
-    "static/js/main.06da75fe.chunk.js"
+    "static/js/main.d1b7dc08.chunk.js"
   ]
 }
