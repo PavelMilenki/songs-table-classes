@@ -33,14 +33,14 @@ class Main extends React.Component {
     };
 
     sortSongParams = (songParam, direction) => {
-              let sorteredSongs = this.props.currentSongs.sort((a, b) => {
+        let sorteredSongs = this.props.currentSongs.sort((a, b) => {
             return a[songParam].localeCompare(b[songParam])
         });
-               if (direction === UP) {
-            this.props.setSongs(sorteredSongs);
+        if (direction === UP) {
+            this.props.setSongs([...sorteredSongs]);
         } else if (direction === DOWN) {
             let reverseSong = sorteredSongs.reverse();
-            this.props.setSongs(reverseSong);
+            this.props.setSongs([...reverseSong]);
         }
     };
 
@@ -57,6 +57,7 @@ class Main extends React.Component {
             return value[str] === selectedValue
         });
         if (selectedValue === ALL) {
+            this.setState({selected: ALL});
             this.props.getSongs();
         } else {
             this.setSelected(selectedValue);
@@ -71,7 +72,6 @@ class Main extends React.Component {
     getPage = (newPage, newPageCount) => {
         this.props.setPage(newPage, newPageCount);
     };
-
 
     render() {
 
